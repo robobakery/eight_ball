@@ -1,9 +1,9 @@
 class EightBall < Formula
     desc "EightBall CLI example"
     homepage "https://github.com/robobakery/homebrew-eight_ball"
-    url "https://github.com/robobakery/homebrew-eight_ball/raw/master/releases/eight_ball-0.0.1.tar.gz"
-    sha256 "4bedeb1fe98cc94849e5569a01d71727add51713fe7f4f3e09437f1280e198df"
-    version "0.0.1"
+    url "https://github.com/robobakery/homebrew-eight_ball/raw/master/releases/eight_ball-0.0.2.tar.gz"
+    sha256 "acf1150336994155a737872cbfebc713e5a3f244ee4480fb155385eb76c8f787"
+    version "0.0.2"
 
     def install
         # install eight_ball script, create symlink to script in /usr/local/bin
